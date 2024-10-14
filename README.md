@@ -1,4 +1,4 @@
-Chatbot Application
+
 This is a Node.js-based chatbot application that uses Express, Mongoose, and Pug for building a web-based chatbot interface with a backend connected to MongoDB.
 
 Features:
